@@ -15,3 +15,6 @@ En estas 5 páginas se publican vehículos de todo tipo, ya sean autos usados y 
 
 ### LINK DEL WIREFRAME
 https://www.figma.com/board/LFLxHIRmavAKlgbQKgUYng/Wireframe-autoNet?t=ko09g1tk6BctJUbK-6
+
+### SOBRE MI
+Me llamo Mateo Grisotto D'Amico, tengo 20 años y actualmente estoy en el segundo año de la Tecnicatura en Programación de UTN. Me interesa aprender todo lo que tenga que ver con desarrollo web.
